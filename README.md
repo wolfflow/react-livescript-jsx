@@ -8,7 +8,7 @@ Use JSX syntax in your ls files right now =)
 
 Usage example:
 
-``ls
+```ls
 R = window.React
 
 Main = R.create-class do
@@ -17,5 +17,5 @@ Main = R.create-class do
 R.render do 
   ``<Main name="Joe" />``
   document.body
-``
+```
 
