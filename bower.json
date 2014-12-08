@@ -1,0 +1,19 @@
+{
+  "name": "react-livescript-jsx",
+  "version": "0.0.0",
+  "private": true,
+  "authors": [
+    "Daniel K <x.flowwolf@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.1"
+  }
+}

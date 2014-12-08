@@ -1,0 +1,12 @@
+.svn
+.c9
+
+# ignore npm debug logs etc.
+*.log
+
+# ignore node local modules
+node_modules*
+
+# ignore bower components
+/components*
+/bower_components*
