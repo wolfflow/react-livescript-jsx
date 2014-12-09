@@ -1,8 +1,8 @@
-react-livescript-lsx
+react-livescript-jsx
 ====================
 
-LS -> JSX -> JS
----------------
+(LS -> JSX -> JS) little demo
+---------------------------
 
 Use JSX syntax in your ls files right now =)
 
